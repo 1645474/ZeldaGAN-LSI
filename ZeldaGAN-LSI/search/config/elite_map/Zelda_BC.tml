@@ -1,0 +1,29 @@
+[[Map.Features]]
+name="steps_bc"
+low=0
+high=8
+
+[[Map.Features]]
+name="num_enemies_killed"
+low=0
+high=8
+
+[[Map.Features]]
+name="total_enemies"
+low=0
+high=8
+
+[[Map.Features]]
+name="blocks_bc"
+low=0
+high=8
+
+[[Map.Features]]
+name="water_bc"
+low=0
+high= 8
+
+[[Map.Features]]
+name="L2_dist"
+low=0
+high= 1
