@@ -1,0 +1,6 @@
+GAN_model_path = "C:/Users/Richard/Downloads/UniStuff/MLPSem2/ZeldaGAN-LSI/GANTrain/saved/netG_epoch_4999_6.pth"
+Visualize=false
+
+[[Trials]]
+num_trials=1
+trial_config="C:/Users/Richard/Downloads/UniStuff/MLPSem2/ZeldaGAN-LSI/search/config/trial/MAPELITES_ZeldaBC.tml"

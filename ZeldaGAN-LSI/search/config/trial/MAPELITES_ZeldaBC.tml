@@ -1,0 +1,5 @@
+algorithm = "MAPELITES"
+trial_name="MAPELITES_ZeldaBC"
+num_simulations=10000
+algorithm_config = "C:/Users/Richard/Downloads/UniStuff/MLPSem2/ZeldaGAN-LSI/search/config/algorithms/map_elites.tml"
+elite_map_config = "C:/Users/Richard/Downloads/UniStuff/MLPSem2/ZeldaGAN-LSI/search/config/elite_map/Zelda_BC.tml"
